@@ -1,0 +1,14 @@
+--2025-10-31 18:03:47--  https://shortapp-02.oss-us-east-1.aliyuncs.com/template/default-expo-rn.zip?OSSAccessKeyId=LTAI5tQBFCvoQacPCwWiQcx7&Expires=1761938965&Signature=IuFFmdPLBF9O6WDDlCMJXTkcO8E%3D
+Resolving shortapp-02.oss-us-east-1.aliyuncs.com (shortapp-02.oss-us-east-1.aliyuncs.com)... 47.253.30.83
+Connecting to shortapp-02.oss-us-east-1.aliyuncs.com (shortapp-02.oss-us-east-1.aliyuncs.com)|47.253.30.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181938 (178K) [application/zip]
+Saving to: ‘default-expo-rn.zip?OSSAccessKeyId=LTAI5tQBFCvoQacPCwWiQcx7&Expires=1761938965&Signature=IuFFmdPLBF9O6WDDlCMJXTkcO8E=’
+
+     0K .......... .......... .......... .......... .......... 28%  377K 0s
+    50K .......... .......... .......... .......... .......... 56%  488K 0s
+   100K .......... .......... .......... .......... .......... 84% 1002K 0s
+   150K .......... .......... .......                         100%  542K=0.3s
+
+2025-10-31 18:03:49 (529 KB/s) - ‘default-expo-rn.zip?OSSAccessKeyId=LTAI5tQBFCvoQacPCwWiQcx7&Expires=1761938965&Signature=IuFFmdPLBF9O6WDDlCMJXTkcO8E=’ saved [181938/181938]
+
